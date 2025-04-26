@@ -25,8 +25,8 @@
 
 	"routes": [
     	{
-      		"pattern": "harryrford.com",
-			"custom_domain": true
+      		"pattern": "harryrford.com/*",
+			"zone_id": "2399e550a59f2165d7c01c4004d20ebf"
     	}
   	],
 
