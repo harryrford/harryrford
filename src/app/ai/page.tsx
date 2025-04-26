@@ -6,7 +6,7 @@ export const metadata = {
 export default function AI() {
     return (
         <section>
-            Hello
+            2
         </section>
     )
 }

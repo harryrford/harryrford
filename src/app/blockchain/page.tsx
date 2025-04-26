@@ -6,7 +6,7 @@ export const metadata = {
 export default function Blockchain() {
     return (
         <section>
-            Hello
+            1
         </section>
     )
 }
