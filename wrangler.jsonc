@@ -25,12 +25,12 @@
 
 	"routes": [
     	{
-      		"pattern": "harryrford.com/*",
+      		"pattern": "*harryrford.com/*",
 			"zone_id": "2399e550a59f2165d7c01c4004d20ebf"
     	}
   	],
 
-	"workers_dev": true,
+	"workers_dev": false,
 	"preview_urls": false,
 
 	/**
